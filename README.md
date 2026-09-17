@@ -1,8 +1,8 @@
 # Exp. No. 8 – Reproducing an Image Using Prompts for Image Generation
 
-NAME: JANDA HEMANTH
+# NAME: JANDA HEMANTH
 
-REG NO: 212223030015
+# REG NO: 212223030015
 
 ## Aim
 
@@ -31,6 +31,8 @@ To reproduce a given reference image using prompts with an AI image-generation t
 ## Procedure
 
 ### Step 1: Examine the Given Image
+
+![Uploading 00.png…]()
 
 The reference image was carefully examined to identify:
 
@@ -94,5 +96,5 @@ Do not introduce new objects, colors, poses, or backgrounds that are not present
 
 The final output should have the closest possible visual similarity to the reference image while maintaining a natural and realistic appearance.
 
-Output: Gemini Generated Image
+# Output: Gemini Generated Image
 <img width="1408" height="768" alt="Gemini_Generated_Image_5wvsgw5wvsgw5wvs" src="https://github.com/user-attachments/assets/2a3e9ce4-8512-42bd-8f61-72464ce117fc" />
