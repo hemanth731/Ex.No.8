@@ -1,8 +1,8 @@
 # Exp. No. 8 – Reproducing an Image Using Prompts for Image Generation
 
-NAME:JANDA HEMANTH
+NAME: JANDA HEMANTH
 
-REG NO:212223030015
+REG NO: 212223030015
 
 ## Aim
 
