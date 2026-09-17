@@ -32,7 +32,7 @@ To reproduce a given reference image using prompts with an AI image-generation t
 
 ### Step 1: Examine the Given Image
 
-![Uploading 00.png…]()
+<img width="1408" height="768" alt="00" src="https://github.com/user-attachments/assets/bb9f0768-b6c9-42f9-9b9f-4250418cebea" />
 
 The reference image was carefully examined to identify:
 
