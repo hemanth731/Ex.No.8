@@ -1,6 +1,8 @@
 # Exp. No. 8 – Reproducing an Image Using Prompts for Image Generation
 
-## Date
+#NAME:JANDA HEMANTH
+
+#REGNO:212223030015
 
 ## Aim
 
